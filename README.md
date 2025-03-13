@@ -8,9 +8,8 @@
 
 - [x] Aula 01 - Introdução ao Dart/Flutter - 19/02/2025
 - [x] Aula 02 - Criando meu primeiro App - 26/02/2025
-- [ ] Aula 03 - Criação de Widgets; Navegação entre Telas; Padrão BloC (Business Logic Object Components)
-- [ ] Aula 04 - Criando App - Etanol x Gasolina - BloC
-- [ ] Aula 05 - Criando App - Etanol x Gasolina - BloC - Mensagem de Alerta (AlertDialog) - Drawer
+- [x] Aula 03 - Criando App - Etanol x Gasolina - 12/03/2025
+- [ ] Aula 05 - Criando App - BloC - Mensagem de Alerta (AlertDialog) - Drawer
 - [ ] Aula 06 - Aplicativo para acesso a uma API JSON - PokeAPI
 - [ ] Aula 07 - Aplicativo para acesso a uma API JSON - PokeAPI
 - [ ] Aula 08 - Criando temas e personalização de widgets
