@@ -11,8 +11,8 @@
 - [x] Aula 03 - Criando App - Etanol x Gasolina - 12/03/2025
 - [x] Aula 04 - Aplicativo para acesso a uma API JSON - PokeAPI - 19/03/2025
 - [x] Aula 05 - Aplicativo para acesso a uma API JSON - PokeAPI - 26/03/2025
-- [x] Aula 06 - Aplicativo para acesso a uma API JSON - PokeAPI - 02/04/2025
-- [ ] Aula 07 - Criando App - BloC - Mensagem de Alerta (AlertDialog) - Drawer
+- [x] Aula 06 - Aplicativo para acesso a uma API JSON - PokeAPI - Drawer - 02/04/2025
+- [x] Aula 07 - Criando App - BloC - Mensagem de Alerta (AlertDialog) - 09/04/2025
 - [ ] Aula 08 - Criando temas e personalização de widgets
 - [ ] Aula 09 - Banco de dados local - SQLite - Models, Banco de Dados, Helpers e Extensions
 - [ ] Aula 10 - Banco de dados local - SQLite - Models, Banco de Dados, Helpers e Extensions
