@@ -15,7 +15,7 @@
 - [x] Aula 07 - Criando App - BloC - Mensagem de Alerta (AlertDialog) - 09/04/2025
 - [x] Aula 08 - Revisão do conteúdo do primeiro bimestre - 16/04/2025
 - [x] Aula 09 - Banco de dados local - Shared preferences - Models, Banco de Dados, Helpers e Extensions - 30/04/2025
-- [ ] Aula 10 - Banco de dados local - Shared preferences - Models, Banco de Dados, Helpers e Extensions - 07/05/2025
+- [x] Aula 10 - Banco de dados local - Shared preferences - Models, Banco de Dados, Helpers e Extensions - 07/05/2025
 - [ ] Aula 11 - Banco de dados local - Shared preferences - Models, Banco de Dados, Helpers e Extensions - 14/05/2025
 - [ ] Aula 12 - Banco de dados local - Shared preferences - Models, Banco de Dados, Helpers e Extensions - 21/05/2025
 - [ ] Aula 13 - Banco de dados local - Shared preferences - Models, Banco de Dados, Helpers e Extensions - 28/05/2025
