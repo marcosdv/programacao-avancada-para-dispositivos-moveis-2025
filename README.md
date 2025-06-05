@@ -19,7 +19,7 @@
 - [x] Aula 11 - Banco de dados local - Shared preferences - Models, Banco de Dados, Helpers e Extensions - 14/05/2025
 - [x] Aula 12 - Banco de dados local - Shared preferences - Models, Banco de Dados, Helpers e Extensions - 21/05/2025
 - [x] Aula 13 - Criando App - MVVM - 28/05/2025
-- [ ] Aula 14 - Criando temas e personalização de widgets - 04/06/2025
+- [x] Aula 14 - Criando temas e personalização de widgets - 04/06/2025
 
 ### Tecnologias
 
